@@ -1,0 +1,6 @@
+shiny gold bags contain 3 dim olive bags.
+dim olive bags contain 2 posh green bag, 5 pale indigo bags, 1 mirrored purple bag.
+mirrored purple bags contain no other bags.
+pale indigo bags contain no other bags.
+posh green bags contain 2 striped aqua bags.
+striped aqua bags contain no other bags.
