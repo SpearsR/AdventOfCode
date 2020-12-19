@@ -58,6 +58,7 @@ def calcLine(line):
                 par = True
                 begin = len(mainFinal)-1
                 linebegin = item
+                
                 start = True
             if(symbol == ')' and start):
                 start = False
